@@ -1,0 +1,6 @@
+The code that I wrote and ChatGPT wrote are quite similar with the use of unordered maps 
+to store the data that is read from the text file. Where our codes start to differ are when
+it comes to reading the files in, our variable names, and how we group our files. ChatGPT likes
+to code everything into one file but we divide the header files and the cpp files. Admittedly I
+took some inspiration of the use of exceptions to catch run-time errors from ChatGPT as I didn't
+know what I was doing in that instance.
